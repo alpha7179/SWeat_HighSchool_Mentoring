@@ -27,8 +27,10 @@ Sweat 동아리에서 진행하는 **파이썬 멘토링**은 수원외국어고
 | 6주차 | 반복문 |  |
 
 ## 💻 준비 사항
-- **필수 소프트웨어**:  ~~Python, Visual Studio Code~~ Google Colab 사용예정
-- **필수 패키지**: ~~`numpy`, `pandas`, `matplotlib` 등 기본 라이브러리~~ 데이터 분석 수업시 사용예정
+- **필수 소프트웨어**:  ~~Python, Visual Studio Code~~ **Google Colab** 사용예정
+- **필수 패키지**: ~~`numpy`, `pandas`, `matplotlib` 등 기본 라이브러리~~
+- **필수 장비**: 개인 노트북
+
 
 ## 📂 GitHub 저장소 활용 방법
 1. **파일 다운로드**: 저장소에서 제공되는 예제 코드 및 과제 파일을 다운로드합니다.
