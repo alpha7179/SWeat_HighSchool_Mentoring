@@ -27,7 +27,7 @@ Sweat 동아리에서 진행하는 **파이썬 멘토링 프로그램**은 수�
 | 6주차 | 정규표현식과 모듈 | 데이터 검색 및 모듈 활용법 익히기 |
 
 ## 💻 준비 사항
-- **필수 소프트웨어**: --Python (최신 버전), Visual Studio Code--
+- **필수 소프트웨어**: -Python (최신 버전), Visual Studio Code-
 - **필수 패키지**: `numpy`, `pandas`, `matplotlib` 등 기본 라이브러리 설치 필요
 
 ## 📂 GitHub 저장소 활용 방법
